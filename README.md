@@ -10,7 +10,8 @@
 
 https://azure.microsoft.com/ja-jp/products/ai-services/ai-vision
 
-にお申込み頂き、OCRサービスのAPIキーを発行してください。
+にお申込み頂き、OCRサービスのAPIキーを発行してください。F0（Free）で必ず発行してください。
+逆に言うと無料分で月5千回使えるので、お金は掛からずに運用できると思います。
 発行したAPIキーはプログラムのconfig.php内に埋め込んでください。
 
 読み込み精度はAI Visionに左右されるため、完璧に抽出できるとは限らない点にご注意ください。
