@@ -2,11 +2,14 @@
 各戦績のスクリーンショットを取り、アップするとOCR化して名前と得点だけ抽出します。
 
 【必要なもの】
+
 1．Webサーバ
 ご自身のPCにXAMPP等をご用意頂き、ルートフォルダにファイルを全て配置してください
 
 2. Azure AI VisionのAPIキー
+
 https://azure.microsoft.com/ja-jp/products/ai-services/ai-vision
+
 にお申込み頂き、OCRサービスのAPIキーを発行してください。
 発行したAPIキーはプログラムのconfig.php内に埋め込んでください。
 
